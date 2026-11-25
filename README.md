@@ -1,4 +1,3 @@
-
 # Dictionary Mini Project
 
 ## Project Overview
